@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 任意の細かい調整 */
+:root {
+  color-scheme: dark;
+}
